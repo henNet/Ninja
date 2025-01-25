@@ -4,7 +4,7 @@ O jogo consiste em ajudar um ninja a atravessar uma vila cheia de shurikens pass
 
 ## Como surgiu
 
-O jogo foi o resultado final do mini-curso que ministrei na Semana da Computação (SECOMP) da Universidade Estadual do Ceará (UECE) em 2019. O mini-curso teve duração de 8h.
+O jogo foi o resultado final do mini-curso que ministrei na Semana da Computação (SECOMP) da Universidade Estadual do Ceará (UECE) em 2018. O mini-curso teve duração de 8h.
 
 ## Screenshots
 
